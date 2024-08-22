@@ -1,9 +1,9 @@
 === Accessibility by UserWay ===
-Contributors: UserWay.org
-Tags: userway, accessibility, a11y, WCAG, Section 508, web accessibility, handicap, disabled, blind, visually impaired, accessibility widget, accessibility plugin, contrast, text size, cursor, keyboard navigation, color saturation, legible fonts
+Contributors: userwayorg
+Tags: ada, wcag, EAA compliance, section 508, accessibility
 Requires at least: 4.7
-Tested up to: 6.3.2
-Stable tag: 5.7.2
+Tested up to: 6.5.3
+Stable tag: 2.5.3
 
 UserWay’s Accessibility Widget creates a simpler and more accessible browsing experience for your users.
 
@@ -78,7 +78,12 @@ change endpoint to non permalinks
 change Admin menu location and icon
 = 2.5.0 =
 improve README file
-
+= 2.5.1 =
+Implementation of Compliant Admin Notice
+= 2.5.2 =
+Admin banner CTA button event added
+= 2.5.3 =
+2.5.3 tag added, api script reworked
 
 *
 *Added translations for the plugin:
