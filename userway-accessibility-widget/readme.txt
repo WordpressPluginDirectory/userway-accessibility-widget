@@ -2,8 +2,10 @@
 Contributors: userwayorg
 Tags: ada, wcag, EAA compliance, section 508, accessibility
 Requires at least: 4.7
-Tested up to: 6.5.3
-Stable tag: 2.5.3
+Tested up to: 6.7.2
+Stable tag: 2.5.5
+License: GPLv3
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 UserWay’s Accessibility Widget creates a simpler and more accessible browsing experience for your users.
 
@@ -83,7 +85,11 @@ Implementation of Compliant Admin Notice
 = 2.5.2 =
 Admin banner CTA button event added
 = 2.5.3 =
-2.5.3 tag added, api script reworked
+Api script reworked
+= 2.5.4 =
+Tested version changed
+= 2.5.5 =
+Licence added
 
 *
 *Added translations for the plugin:
